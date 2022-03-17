@@ -12,6 +12,7 @@
 .bicicletas-imagem {
   display: grid;
 }
+
 .bicicletas-imagem img {
   grid-area: 1/1;
 }
